@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sudo-NithishKarthik/slack_clone/issues"
   },
-  "homepage": "https://github.com/sudo-NithishKarthik/slack_clone#readme"
+  "homepage": "https://github.com/sudo-NithishKarthik/slack_clone#readme",
+  "dependencies": {
+    "immutable-ext": "^1.1.5",
+    "ramda": "^0.27.1"
+  }
 }
