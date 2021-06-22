@@ -1,0 +1,19 @@
+{
+  "name": "slack_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-NithishKarthik/slack_clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo-NithishKarthik/slack_clone/issues"
+  },
+  "homepage": "https://github.com/sudo-NithishKarthik/slack_clone#readme"
+}
